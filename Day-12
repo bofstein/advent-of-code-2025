@@ -1,0 +1,5 @@
+Part 1:
+https://docs.google.com/spreadsheets/d/1xD2T-DJzGo65iekVj4puo2kJC6Lw10hBdhu5FgGWXI8/edit?usp=sharing
+
+In this one, my solution worked on the real input because I got lucky that some assumptions were met and edge cases that would have impacted it were avoided.  This is not a true general solution, but it does work.
+It does not work on the Sample input, so I have included 10 random lines of my real input to show the working method.
